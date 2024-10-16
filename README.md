@@ -21,7 +21,7 @@ Java Development Kit (JDK) installed (Download JDK).
 Any Java IDE (like IntelliJ IDEA, Eclipse, or VSCode) or terminal.
 **Steps**
 1 Clone the repository:
-git clone https://github.com/swee-123/CalculatorGUI-java.git  
+git clone https://github.com/swee-123/CalculatorGUI.java.git  
 2 Navigate to the project folder:
 cd calculator-gui-java
 3 Compile the Java file:
